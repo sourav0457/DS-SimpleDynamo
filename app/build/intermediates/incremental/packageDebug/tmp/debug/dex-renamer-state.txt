@@ -1,0 +1,4 @@
+#Sun May 17 21:23:32 EDT 2020
+base.0=/home/sourav/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
